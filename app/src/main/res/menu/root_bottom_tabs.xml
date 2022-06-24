@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_live_tv"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Live TV" />
+
+    <item
+        android:id="@+id/tab_on_demand"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="On Demand" />
+
+    <item
+        android:id="@+id/tab_search"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:title="Search" />
+</menu>
